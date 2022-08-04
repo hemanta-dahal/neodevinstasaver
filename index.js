@@ -31,7 +31,7 @@ app.get("/api", async(req, res) => {
     return res.status(400).send({
       success: false,
       message: "Query Can't Be Empty!",
-      creator: "technostoneyt"
+      creator: "neo developer yt"
     });
   }
     ig.fetchPost(url).then((data) => {
@@ -55,14 +55,12 @@ app.get("/session", async(req, res) => {
 app.get("/", (req, res) => {
     res.setHeader("Cache-Control", "public,max-age=0");
     res.status(200).json({
-        YouTube: 'https://youtube.com/technostone',
-        webSite: 'https://www.technostone.xyz',
-        telegram: 'https://telegram.me/stonechats'
+        YouTube: 'https://youtube.com/ytneodeveloper',
     })
 })
 
 
 app.listen(port, function(){
     console.log("Your App Running on", port);
-/* This File Created By TechnoStone.xyz */
+/* This File Created By Neo Developer */
 });
