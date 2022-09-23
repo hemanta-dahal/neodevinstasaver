@@ -11,7 +11,7 @@
         "rest",
         "api"
     ],
-    "author": "neodev",
+    "author": "Technostone",
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.3",
