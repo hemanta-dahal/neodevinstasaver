@@ -8,10 +8,10 @@ http.globalAgent.maxSockets = Infinity;
 https.globalAgent.maxSockets = Infinity;
 process.setMaxListeners(Infinity);
 
-const username = ''; // your temp instagram username for session cookie
-const password = ''; // your password for session coookie
+const username = 'neodeveloperinstasaver'; // your temp instagram username for session cookie
+const password = 'Dahalhemanta11'; // your password for session coookie
 
-const cookiee = 'csrftoken=OkGEtTunVgpeMsxeu8Io9dg3Lt93e7xp; rur=VLL; ds_user_id=49372693457; sessionid=49372693457%3ArdMbu8CEjvUYpG%3A8%3AAYec9_49Svs0HSKN0INHii8bX5WXq_KkLeCb5JGyag';
+const cookiee = '55554794009%3AkmkjI1kkHSCb7I%3A14%3AAYe-R1BCdmwSgoK17HnTxr1T1sM3_CqDJINnqPvgMw';
 /* How To Get Cookie 
 Deploy Your App On Server The Visit Bellow Link
 
